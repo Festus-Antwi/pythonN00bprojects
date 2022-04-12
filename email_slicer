@@ -3,7 +3,6 @@
 # has a custom domain name or a popular domain nameCollect an email address from the user and then find out if the user
 # has a custom domain name or a popular domain name
 import re
-popular_domian = ["Google", "Yahoo", "hotmail","outlook"]
 
 # a loop to ensure user inputs a valid email
 while True:
